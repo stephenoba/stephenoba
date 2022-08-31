@@ -1,10 +1,17 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+    Backend Developer
+    Currently Forging a Full Stack Software Engineering path at ALX Africa (Holberton)
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+
+<!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
+
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=stephenoba.stephenoba&color=00cf00)
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/stephenoba/stephenoba/master/wave.gif" width="30px" height="30px" />
+
+My name is Stephen Oba and I'm a Backend developer,, currently forging a Fullstack Software Engineering path at (ALX Africa (Holberton School))[]. I'm from Nigeria, Currently working here as a Technical Analyst at (Odne Consulting)[]. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -21,36 +28,23 @@ My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from S
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
+<!--
 ## &#x270d; Blog & Writing
-
+-->
+<!--
 Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
 
 A sample of my recent articles:
+-->
 
 <!-- BLOG-POST-LIST:START -->
+<!--
 - [You Should Be Using Python&#39;s Walrus Operator - Here&#39;s Why](https://martinheinz.dev/blog/79)
 - [Recipes and Tricks for Effective Structural Pattern Matching in Python](https://martinheinz.dev/blog/78)
 - [It&#39;s Time to Say Goodbye to These Python Libraries](https://martinheinz.dev/blog/77)
 - [Advanced Features of Kubernetes&#39; Horizontal Pod Autoscaler](https://martinheinz.dev/blog/76)
+-->
 <!-- BLOG-POST-LIST:END -->
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
 
 <!-- links to social media icons -->
 
@@ -68,9 +62,10 @@ A sample of my recent articles:
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/stephenooba
+[2]: https://github.com/stephenoba
+[3]: https://www.linkedin.com/in/stephenoba/
+[4]: https://www.instagram.com/stephenoba
 
 
 <!-- Resources -->
