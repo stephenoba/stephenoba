@@ -6,7 +6,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/stephenoba/stephenoba/master/wave.gif" width="30px" height="30px" />
 
-My name is Stephen Oba and I'm a FullStack developer,, currently forging a Fullstack Software Engineering path at [ALX Africa (Holberton School)](). I'm from Nigeria, Currently working here as a Technical Analyst at [Odne Consulting](). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+I'm Stephen Oba a Full Stack developer forging a solid Software Engineering path as a student at [ALX Africa (Holberton)](https://www.alxafrica.com/software-engineering-2022), I am currently working on a product catalogue for wholesale manufacturer goods. I am passionate about all things tech, and believe that to truly understand anything you have to build it first. When I'm not bug hunting, I am pulling a perfect endgame on my chess board. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=011c05)
