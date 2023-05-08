@@ -6,7 +6,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/stephenoba/stephenoba/master/wave.gif" width="30px" height="30px" />
 
-I'm Stephen Oba a Full Stack developer forging a solid Software Engineering path as a student at [ALX Africa (Holberton)](https://www.alxafrica.com/software-engineering-2022). When I'm not bug hunting, I am pulling a perfect endgame on my chess board. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+I'm Stephen Oba a Full Stack developer and Software Engineering student at [ALX Africa (Holberton)](https://www.alxafrica.com/software-engineering-2022). When I'm not bug hunting, I am pulling a perfect endgame on my chess board. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=011c05)
